@@ -18,6 +18,8 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
 schedule:
   - name: Monday
     events:
@@ -26,6 +28,11 @@ schedule:
         end: 3:05 PM
         location: Stuart Building 104
   - name: Tuesday
+    events:
+      - name: Office Hours (TA - Tauro)
+        start: 5:00 PM
+        end: 6:30 PM
+        location: SB 115 (Zoom)
   - name: Wednesday
     events:
       - name: Office Hours (Hale)
@@ -37,5 +44,10 @@ schedule:
         end: 3:05 PM
         location: Stuart Building 104
   - name: Thursday
+    events:
+      - name: Office Hours (TA - Tauro)
+        start: 5:00 PM
+        end: 6:30 PM
+        location: SB 115 (Zoom)
   - name: Friday
 ---

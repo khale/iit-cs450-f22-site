@@ -18,6 +18,9 @@ description: Course policies and information.
 
 ---
 
+## Logistics
+This is for CS 450, Fall 2022. Lecture is MW 1:50PM-3:05PM in SB104. 
+
 ## Course Overview
 Operating systems run the world. Without an OS, you couldn't have hundreds of
 programs running at once, you'd have to have deep understanding of hardware,
@@ -90,11 +93,11 @@ cover basic C programming.
 It is critical you attend class sessions. 
 
 ## Textbooks
-There is only one required textbook for the course. It is **freely available online**. We will be using Remzi and Andrea Arpaci-Dusseau's [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (OSTEP). 
+We will be referring to two textbooks for this course. Both are **freely available online**. We will be using Remzi and Andrea Arpaci-Dusseau's [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (OSTEP) and the [RISC-V xv6 book](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf). 
 
 ## Readings
 For every lecture, I will be posting required readings on the course webpage,
-mostly from the OSTEP book, but also from other sources. Be sure to read them!
+mostly from the OSTEP and xv6 books, but also from other sources. Be sure to read them!
 If a reading is marked as required, **the reading content is fair game for
 exams**. Any readings I post that are required will be freely available
 either from the web or from me. I may post optional/extra reading as well.
