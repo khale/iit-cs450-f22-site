@@ -130,9 +130,9 @@ work.
 ## Grading
 The grade break-down for the semester is as follows:
 
-- 60% Projects
-- 15% Midterm Exam
-- 20% Final Exam
+- 70% Projects
+- 10% Midterm Exam
+- 15% Final Exam
 - 5% In-Class Participation
 
 ## Letter Grade Cut-offs
