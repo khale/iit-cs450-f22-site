@@ -86,7 +86,7 @@ My goal with this course is for you to be exposed to and become familiar with th
 You must have taken CS 350 and CS 351. I will only waive this requirement in
 truly exceptional cases—this will be a challenging course, and you will need to
 already be quite familiar with the fundamentals of computer systems. You should
-be comfortable (ideally proficient) with programming in C. I won't take time to
+be comfortable (ideally proficient) with programming in C. I won't take much time to
 cover basic C programming.
 
 ## Lectures
@@ -107,8 +107,17 @@ These may play into any extra credit I choose to include on exmas.
 ## Projects
 By far the most important part of this course is the projects. You will learn
 by doing. Thus, they will comprise the lion's share of your grade. Unless
-otherwise noted you will be working individually on projects.
+otherwise noted you will be working individually on projects. Projects will
+be generally due at 11:59PM CST on the due date. You can submit as many times
+as you like (`make handin`) until then. Your project grades will be calculated
+based on the output of `make grade`, and all labs will be weighted equally. 
 
+## Collaboration
+
+See the section on [academic integrity](#academic-integrity). 
+
+**DO NOT** publish your solutions to publicly accessible websites like Github, 
+Gitlab or publicly visible file servers. 
 
 ## Bad Submissions
 If you submit the wrong file or a program that doesn't compile or doesn't run
@@ -167,11 +176,11 @@ give me some extra work to raise my grade?" have the answer "No."
 
 
 ### Late work policy
-Each of you will have a total allocation of 48 late hours for the entire
+Each of you will have a total allocation of 96 late hours for the entire
 course. These only apply to the projects (not the exams). You can use these
 hours however you want, but be aware of your current quota. For example, if you
-submit a project 2 hours late, you will have 46 late hours remaining. If
-you submit 2 days late for one project, that will use up all of your late hours.
+submit a project 2 hours late, you will have 94 late hours remaining. If
+you submit 4 days late for one project, that will use up all of your late hours.
 After you've exhausted your late hours, your grade will be penalized. Beyond
 that point, one hour late is the same as one day late.
 
@@ -218,16 +227,6 @@ think you deserve more points. Regrade requests should be timely, else they may
 be denied. In particular, regrade requests made after classes end will be
 denied.
 
-## Academic Integrity
-
-You are allowed to discuss your work with others in the class, but ultimately
-what you submit must be solely yours. Cheating, plagiarism, copying from other
-students, or any other sort of academic dishonesty may result in you getting
-a zero on the assignment, may impact your grade negatively, and may result in
-refurral to the Dean. 
-
-Please see IIT's code of Academic Honesty [here](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-academic-honesty).
-
 ## Disability Accommodations
 Reasonable accommodations will be made for students with documented
 disabilities. In order to receive accommodations, students must obtain a letter
@@ -269,7 +268,8 @@ especially copying or other cheating during tests, is an E for the course, plus
 notification of the student's advisor and/or department and any appropriate
 administrators**.
 
-You are allowed to discuss your work with others in the class, but ultimately
+You are allowed to discuss your work with others in the class (we especially
+encourage you to do this on Diderot), but ultimately
 what you submit must be solely yours. Cheating, plagiarism, copying from other
 students, or any other sort of academic dishonesty may result in you getting
 a zero on the assignment, may impact your grade negatively, and may result in

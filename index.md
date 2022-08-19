@@ -22,12 +22,12 @@ seo:
 This is the webpage for CS 450: Operating Systems at [IIT](https://iit.edu).  This
 course is for junior/senior level undergraduates and graduates in Computer
 Science. CS 450 is a core requirement for the CS curriculum. Both CS 350 and CS
-351 are required prerequisites. 
+351 are **required** prerequisites. 
  
 ## Course Communication
-We'll be using the Diderot platform for course communication (see Blackboard
-for the invite link). The course schedule, lecture materials, and assignments will all be
-posted on Diderot. 
+We'll be using the [Diderot](https://diderot.one) platform for course communication. You will
+receive an invite from me in the first week of class. The course schedule, lecture materials, class discussion, and assignments will all be
+on Diderot. 
  
 ## Other Useful Links and Resources
 This is a list of other resources that you might find useful for this class.
