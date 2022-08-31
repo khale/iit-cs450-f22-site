@@ -26,9 +26,13 @@ schedule:
       - name: Lecture
         start: 1:50 PM
         end: 3:05 PM
-        location: Stuart Building 104
+        location: SB 104
   - name: Tuesday
     events:
+      - name: Office Hours (TA - Keeney)
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Stuart Lobby
       - name: Office Hours (TA - Tauro)
         start: 5:00 PM
         end: 6:30 PM
@@ -42,7 +46,11 @@ schedule:
       - name: Lecture
         start: 1:50 PM
         end: 3:05 PM
-        location: Stuart Building 104
+        location: SB 104
+      - name: Office Hours (TA - Keeney)
+        start: 3:05 PM
+        end: 4:00 PM
+        location: Stuart Lobby
   - name: Thursday
     events:
       - name: Office Hours (TA - Tauro)
